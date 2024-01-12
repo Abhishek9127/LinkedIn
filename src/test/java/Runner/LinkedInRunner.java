@@ -9,5 +9,10 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features="src/test/java/Features", plugin = {"pretty","html:target/cucumber-reports/report.html"}, glue={"StepDefinations"}, tags="@Run1")
 
 public class LinkedInRunner {
+	
+	//TEST AUTOMATION
+	// Manual Testing
+	// AUTOMATION TESTING 
+
 
 }
